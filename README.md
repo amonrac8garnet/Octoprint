@@ -223,4 +223,4 @@ OctoPrint is offered as the full free version with all features and updates incl
 Unlock the full potential of your 3D printing experience with OctoPrint. Download now and take control of your creations!
 
 ---
-**Last updated:** 2026-10-17 01:05:00 UTC
+**Last updated:** 2026-10-17 06:36:19 UTC
